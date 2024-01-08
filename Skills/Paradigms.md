@@ -1,36 +1,36 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 👂 heard
+  - Functional programming: 👂 heard
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
+  - Generic programming: 🎓 known
+  - Concurrent computing: 👂 heard
+  - Asyncronous programming: 👂 heard
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming
-  - Actor model
+  - Actor model: 👂 heard
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🎓 known
+  - Method: 🎓 known
+  - Async method: 🎓 known
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
   - Field declarations
-  - Inheritance
+  - Inheritance: 🎓 known
   - Parent class
   - Polymorphism
   - Abstract class
@@ -42,7 +42,7 @@
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
+  - Singleton: 🎓 known
   - Factory Method
   - Abstract Factory
   - Adapter
@@ -56,7 +56,7 @@
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 🎓 known
   - Composite
   - Decorator
   - Flyweight
