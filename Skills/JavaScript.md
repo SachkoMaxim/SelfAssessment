@@ -1,89 +1,89 @@
-## JavaScript
+## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
+  - call: 🖐️ used
+  - bind: 🖐️ used
+  - apply: 🖐️ used
+  - instanceof: 🖐️ used
+  - ...spread: 🎓 known
+  - ...rest: 🎓 known
+  - typeof: 🖐️ used
+  - destructuring: 🎓 known
+  - generator: 🎓 known
+  - iterator: 🎓 known
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
+  - chaining: 🎓 known
+  - optional chaining: 🎓 known
+  - IIFE: 🎓 known
+  - global: 🎓 known
+  - globalThis: 🎓 known
+  - window: 🎓 known
+  - getters and setters: 🎓 known
+  - __proto__: 🎓 known
+  - prototype: 🎓 known
+  - equality operators: 🎓 known
+  - logical operators: 🎓 known
+  - bitwise operators: 🎓 known
+  - ternary operator: 🎓 known
+  - void: 🎓 known
+  - yield: 🎓 known
+  - await: 🎓 known
   - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - strict mode: 🎓 known
+  - delete: 🎓 known
+  - in: 🎓 known
+  - super: 🎓 known
+  - Symbol: 🎓 known
+  - Reflect: 🎓 known
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
+  - for await: 🎓 known
+  - throw: 🎓 known
+  - break: 🖐️ used
+  - continue: 🎓 known
+  - import: 🎓 known
+  - export: 🎓 known
+  - label: 🎓 known
+  - try..catch: 🎓 known
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🎓 known
+  - with: 🎓 known
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🎓 known
+  - function expression: 🎓 known
+  - return: 🙋 explained
+  - default parameters: 🎓 known
+  - functional object: 🎓 known
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array: 🖐️ used
+  - mixin: 🎓 known
+  - extend: 🎓 known
+  - typed arrays: 🎓 known
+  - Map: 🎓 known
+  - Set: 🎓 known
+  - undefined: 🎓 known 
+  - null: 🖐️ used
+  - Proxy: 🎓 known
+  - weak collections: 🎓 known
+  - timers: 🎓 known
+  - EventEmitter: 🎓 known
+  - RegExp: 🎓 known
+  - Date: 🎓 known
+  - BigInt: 🎓 known
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 🎓 known
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🎓 known
+  - MDN: 🎓 known

@@ -4,21 +4,21 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
-  - Event loop: phases
+  - Event loop: phases: 👂 heard
   - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules: 👂 heard
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons: 🎓 known
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🎓 known
+  - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,14 +26,14 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 🎓 known
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API: 👂 heard
   - Web Streams API
   - Crypto API
   - Password hashing with node:crypto.scrypt
@@ -55,13 +55,13 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
+  - node:url vs new URL: 👂 heard
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
+  - Isolation between layer: 🎓 known
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
@@ -86,21 +86,21 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🎓 known
   - TLS
-  - Websocket
-  - SSE
+  - Websocket: 🎓 known
+  - SSE: 🎓 known
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
+  - Long polling: 🎓 known
+  - REST: 🎓 known
   - RPC
   - Routing
   - DoS
   - DDoS
   - XSS
-  - Path traversal
+  - Path traversal: 🎓 known
   - CSRF
   - DNS
   - Fetch API
@@ -116,43 +116,43 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing: 🎓 known
   - CI/CD
   - Readable
   - Writable
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 🎓 known
   - Inspector
   - Reliability
   - Quality
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: 👂 heard
+  - Repository: 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 🎓 known
+  - error.cause: 🎓 known
+  - error.code: 🎓 known
+  - error.message: 🎓 known
+  - error.stack: 🎓 known
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Uncaught exceptions: 👂 heard
+  - Heap dump: 🎓 known
+  - Debugging tools: 🎓 known
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
   - Data race
 - Integrations and bindings
-  - Native addons
-  - C and C++ addons
+  - Native addons: 👂 heard
+  - C and C++ addons: 👂 heard
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
