@@ -20,8 +20,8 @@
   - Dependencies: npm, node_modules: 🎓 known
   - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Isolation with modularity: 🎓 known
+  - Dependency injection: 🎓 known
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -29,7 +29,7 @@
   - Command line arguments: 🎓 known
   - Node.js CLI: 👂 heard
   - Process-based permissions
-  - Graceful shutdown
+  - Graceful shutdown: 🎓 known
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
@@ -62,10 +62,10 @@
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer: 🎓 known
-  - Multilayer approach
+  - Multilayer approach: 🎓 known
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
+  - Dependency injection: 🎓 known
   - GRASP
   - SOLID
   - GoF patterns
@@ -105,7 +105,7 @@
   - DNS
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 🖐️ used
   - noDelay
   - keep-alive
   - ALPN
@@ -113,14 +113,14 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
+  - Native test runner: 🎓 known
+  - Logging: 🎓 known
+  - Application configuring: 🎓 known
   - Testing: 🎓 known
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - CI/CD: 🎓 known
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🎓 known
   - back pressure
   - Buffer
   - Console: 🎓 known
@@ -130,8 +130,8 @@
   - Availability
   - Flexibility
 - Data access
-  - Data access layer: 👂 heard
-  - Repository: 👂 heard
+  - Data access layer: : 🎓 known
+  - Repository: : 🎓 known
   - Active record
   - Query builder
   - Object-Relational Mapping
