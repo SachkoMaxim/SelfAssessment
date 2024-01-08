@@ -3,24 +3,24 @@
 - Theory
   - Event loop: 🎓 known
   - try..catch: 🎓 known
-  - Non-blocking: 👂 heard
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
+  - Non-blocking: 🎓 known
+  - Async I/O: : 🎓 known
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 🎓 known
+  - CAS operations: 🎓 known
   - epoll
   - kqueue
-  - Completion ports
-  - Event ports
+  - Completion ports: 🎓 known
+  - Event ports: 👂 heard
   - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming: 👂 heard
-  - Parallel programming: 👂 heard
-  - Actor Model
-  - Thread
-  - Process
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Actor Model: 🎓 known
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
   - Callbacks: 🎓 known
   - Callback-last-error-first: 🎓 known
@@ -33,31 +33,31 @@
   - Async Generator: 🎓 known
   - Async Iterator: 🎓 known
   - Event: 🎓 known
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Coroutine: 🎓 known
+  - Goroutine: 👂 heard
+  - Signal: 🎓 known
+  - Stream: 🎓 known
+  - Chain of responsibility: 👂 heard
+  - Middleware: 🎓 known
+  - Locks: 🎓 known
 - Async adapters and utils
   - callbackify: 🎓 known
   - promisify: 🎓 known
-  - asyncify
-  - callbacks compose
-  - async compose
+  - asyncify: 🎓 known
+  - callbacks compose: 🎓 known
+  - async compose: 🎓 known
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
   - Observable/Observer: 🎓 known
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🎓 known
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
+  - Async Collector: 🎓 known
+  - Semaphore: 🎓 known
+  - Mutex: 👂 heard
+  - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
   - Timers: 🎓 known
   - setImmediate: 🎓 known
@@ -68,7 +68,7 @@
   - Promise double resolve
   - child_process
   - worker_threads
-  - Atomics
+  - Atomics: 👂 heard
   - High resolution clock
   - Callback hell
   - Promise hell
